@@ -28,7 +28,7 @@ typedef struct
 	data d;
 } clientescompras;
 
-// Interface Gráfica
+// Interface GrÃ¡fica
 void printHeader()
 {
 	
@@ -44,7 +44,7 @@ void searchMenu()
 	
 }
 
-// Funções de busca
+// FunÃ§Ãµes de busca
 cliente findClienteOnArray()
 {
 	
@@ -54,9 +54,19 @@ bool hasClienteOnArray()
 {
 	
 }
-// Funções auxiliares
+// FunÃ§Ãµes auxiliares
+data createData(){
 
-// Inicialização do programa
+}
+
+compra createCompra(){
+
+}
+
+clientescompras createClienteCompraLink(){
+
+}
+// InicializaÃ§Ã£o do programa
 void fillDatabase()
 {
 	
